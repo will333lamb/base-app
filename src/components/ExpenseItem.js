@@ -4,7 +4,7 @@ function ExpenseItem (){
 
     const expenseDate = new Date(2021, 2, 28);
     const expenseTitle = 'Car Insurance';
-    const expenseAmount = 294.67;
+    const expenseAmount = 294000000.67;
 
     return (
         <div className="expense-item">
